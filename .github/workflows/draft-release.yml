@@ -13,7 +13,7 @@ jobs:
   release:
     runs-on: ubuntu-latest
     steps:
-      - uses: devdoshi/release-please-action@main
+      - uses: devdoshi/release-please-action@v4.0.0
         with:
           command: release-pr
           release-type: node
