@@ -21,5 +21,5 @@ jobs:
           default-branch: next
         id: pr
       - run: |
-          PR=$(echo ${{steps.pr.outputs.pr}} | jq ".number")
+          PR=$(echo '${{steps.pr.outputs.pr}}' | jq ".number")
           gh pr edit $PR --base main
