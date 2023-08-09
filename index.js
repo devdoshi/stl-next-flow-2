@@ -7,3 +7,4 @@ console.log("Yo");
 console.log("Sup");
 console.log("Hey");
 console.log("Whaddup");
+console.log("Salutations");
