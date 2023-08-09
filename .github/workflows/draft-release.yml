@@ -23,4 +23,3 @@ jobs:
       - run: |
           PR=$(echo ${{steps.pr.outputs.pr}} | jq ".number")
           gh pr edit $PR --base main
-        if: ${{steps.pr.outputs.releases_created}}
