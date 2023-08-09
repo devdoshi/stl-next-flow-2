@@ -13,9 +13,11 @@ jobs:
   release:
     runs-on: ubuntu-latest
     steps:
-      - uses: devdoshi/release-please-action@v4.0.0
+      - uses: google-github-actions/release-please-action@v3
         with:
           command: release-pr
           release-type: node
           package-name: my-package
           default-branch: next
+        id: pr
+      - run: echo ${{steps.pr.outputs.pr}}
