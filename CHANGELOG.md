@@ -1,5 +1,15 @@
 # Changelog
 
+## [4.1.0](https://github.com/devdoshi/stl-next-flow-2/compare/v4.0.0...v4.1.0) (2023-08-09)
+
+
+### Features
+
+* more formal ([7447c47](https://github.com/devdoshi/stl-next-flow-2/commit/7447c479db2d75d5b41051b7818c56eef0aaa771))
+* use latest action version ([8198d9e](https://github.com/devdoshi/stl-next-flow-2/commit/8198d9e11d287bf913d6366d059609470f167af6))
+* whaddup ([f37fb40](https://github.com/devdoshi/stl-next-flow-2/commit/f37fb400a09e9855d372a535d8acaac4264cd768))
+* wip ([4d9e695](https://github.com/devdoshi/stl-next-flow-2/commit/4d9e6952334bce61f603152dafc94de0f2cc0a68))
+
 ## [4.0.0](https://github.com/devdoshi/stl-next-flow-2/compare/v3.0.0...v4.0.0) (2023-08-09)
 
 
