@@ -11,3 +11,4 @@ console.log("Salutations");
 console.log("<wave>");
 console.log("Ay");
 console.log("Mornin'");
+console.log("Howdy");
