@@ -8,3 +8,4 @@ console.log("Sup");
 console.log("Hey");
 console.log("Whaddup");
 console.log("Salutations");
+console.log("<wave>");
