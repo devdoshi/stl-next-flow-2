@@ -23,3 +23,6 @@ jobs:
       - run: |
           PR=$(echo '${{steps.pr.outputs.pr}}' | jq ".number")
           gh pr edit $PR --base main
+
+        env:
+          GH_TOKEN: ${{ github.token }}
