@@ -9,3 +9,4 @@ console.log("Hey");
 console.log("Whaddup");
 console.log("Salutations");
 console.log("<wave>");
+console.log("Ay");
