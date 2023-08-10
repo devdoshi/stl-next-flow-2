@@ -1,5 +1,23 @@
 # Changelog
 
+## [6.0.0](https://github.com/devdoshi/stl-next-flow-2/compare/v5.0.0...v6.0.0) (2023-08-10)
+
+
+### ⚠ BREAKING CHANGES
+
+* breaking change
+
+### Features
+
+* breaking change ([89d4bd7](https://github.com/devdoshi/stl-next-flow-2/commit/89d4bd7fbd226b64048bb9fb49917cce32bbc037))
+* minor bump ([df337c6](https://github.com/devdoshi/stl-next-flow-2/commit/df337c60b77be46ab2fe64d9766cc04013eb21ff))
+
+
+### Bug Fixes
+
+* patch bump ([4ab3ecc](https://github.com/devdoshi/stl-next-flow-2/commit/4ab3ecc80d56311e75c81a548be5ba3e075066f1))
+* patch bump ([3fd64d9](https://github.com/devdoshi/stl-next-flow-2/commit/3fd64d9415c75241ca6f47640bfe0ddabf53784e))
+
 ## [5.0.0](https://github.com/devdoshi/stl-next-flow-2/compare/v4.1.0...v5.0.0) (2023-08-10)
 
 
