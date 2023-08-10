@@ -13,3 +13,4 @@ console.log("Ay");
 console.log("Mornin'");
 console.log("Howdy");
 console.log("Ahoy");
+console.log("Oy!")
