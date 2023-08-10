@@ -1,16 +1,1 @@
-console.log("Hello");
-console.log("Aloha");
-console.log("Hola");
-console.log("Hej");
-console.log("Bonjour");
-console.log("Yo");
-console.log("Sup");
-console.log("Hey");
-console.log("Whaddup");
-console.log("Salutations");
-console.log("<wave>");
-console.log("Ay");
-console.log("Mornin'");
-console.log("Howdy");
-console.log("Ahoy");
-console.log("Oy!")
+console.log("SYN");
