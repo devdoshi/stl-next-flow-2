@@ -1,5 +1,29 @@
 # Changelog
 
+## [5.0.0](https://github.com/devdoshi/stl-next-flow-2/compare/v4.1.0...v5.0.0) (2023-08-10)
+
+
+### ⚠ BREAKING CHANGES
+
+* pivot to computers
+* nautical
+* breaking
+
+### Features
+
+* breaking ([324424f](https://github.com/devdoshi/stl-next-flow-2/commit/324424f6f03fba59151560728e6cc27036707233))
+* morning ([cfb5f09](https://github.com/devdoshi/stl-next-flow-2/commit/cfb5f0996e053b913deef2b1dffc51b10708aea2))
+* nautical ([be87303](https://github.com/devdoshi/stl-next-flow-2/commit/be873030d05387098e5e7e9f9b5e9c16a6af2be8))
+* pivot to computers ([3b32739](https://github.com/devdoshi/stl-next-flow-2/commit/3b3273919786b3c7f31c62de14a381158b233d21))
+* use main for now ([626a1dd](https://github.com/devdoshi/stl-next-flow-2/commit/626a1dd5c546f811eee8770935f369f408f60c0a))
+* xyz ([0fe3d6e](https://github.com/devdoshi/stl-next-flow-2/commit/0fe3d6e42732abeb6bef7c157d99504600370e7d))
+
+
+### Bug Fixes
+
+* patch ([aaea75a](https://github.com/devdoshi/stl-next-flow-2/commit/aaea75a4a392aaf7c4d96d7249154a7f055fe4ef))
+* update workflow to use forked action ([685d8ff](https://github.com/devdoshi/stl-next-flow-2/commit/685d8fff9aaa3c8c90228c6f9aeda232e4d392ff))
+
 ## [4.1.0](https://github.com/devdoshi/stl-next-flow-2/compare/v4.0.0...v4.1.0) (2023-08-09)
 
 
