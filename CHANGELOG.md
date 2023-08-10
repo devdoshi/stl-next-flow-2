@@ -1,5 +1,12 @@
 # Changelog
 
+## [5.0.1](https://github.com/devdoshi/stl-next-flow-2/compare/v5.0.0...v5.0.1) (2023-08-10)
+
+
+### Bug Fixes
+
+* patch bump ([3fd64d9](https://github.com/devdoshi/stl-next-flow-2/commit/3fd64d9415c75241ca6f47640bfe0ddabf53784e))
+
 ## [5.0.0](https://github.com/devdoshi/stl-next-flow-2/compare/v4.1.0...v5.0.0) (2023-08-10)
 
 
