@@ -12,4 +12,4 @@ jobs:
             echo head ${{github.event.pull_request.head.ref}}
             echo base ${{github.event.pull_request.base.ref}}
             exit 1
-        if: ${{!(github.event.pull_request.head.ref == 'next') || !(github.event.pull_request.base.ref == 'main' && github.event.pull_request.head.ref == 'release-please--branches--next--components--my-package')}}
+        if: ${{!(github.event.pull_request.base.ref == 'next') || !(github.event.pull_request.base.ref == 'main' && github.event.pull_request.head.ref == 'release-please--branches--next--components--my-package')}}
