@@ -1,5 +1,5 @@
 {
-    "name": "test-release-please",
+    "name": "my-package",
     "version": "6.1.0",
     "description": "Test project for release-please",
     "main": "index.js",

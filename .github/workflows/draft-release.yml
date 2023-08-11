@@ -1,5 +1,7 @@
 name: Draft Release
 
+concurrency: "releases"
+
 permissions:
   contents: write
   pull-requests: write
