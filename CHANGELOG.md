@@ -1,5 +1,28 @@
 # Changelog
 
+## [7.0.0](https://github.com/devdoshi/stl-next-flow-2/compare/v6.1.0...v7.0.0) (2023-08-11)
+
+
+### ⚠ BREAKING CHANGES
+
+* fixes
+* breaking change
+
+### Features
+
+* add demo script ([0a11f68](https://github.com/devdoshi/stl-next-flow-2/commit/0a11f688156346bb4cab4dcd61c487d70b4f9d6c))
+* breaking change ([e97f782](https://github.com/devdoshi/stl-next-flow-2/commit/e97f7826417147a23d82066d01f199e993dfb868))
+* change 2b ([b394ec1](https://github.com/devdoshi/stl-next-flow-2/commit/b394ec1f63b4321d4f00cd3bd20b3b23a66c20e8))
+* fixes ([92e13f8](https://github.com/devdoshi/stl-next-flow-2/commit/92e13f88e5e97708e2893d83a0c500219e9a7ea3))
+* minor bump ([2daf7b0](https://github.com/devdoshi/stl-next-flow-2/commit/2daf7b06834db078fcfa8f2f8867e35d5c84efc0))
+
+
+### Bug Fixes
+
+* patch bump ([952ac89](https://github.com/devdoshi/stl-next-flow-2/commit/952ac89f8bfe3a8ae13dab1ffbea757f5f758c37))
+* wip ([a459598](https://github.com/devdoshi/stl-next-flow-2/commit/a459598ee384df563f516e4828b2000e6fb15e17))
+* wip ([0375f9e](https://github.com/devdoshi/stl-next-flow-2/commit/0375f9e10289444bc46bbdbd524110b796a1f80b))
+
 ## [6.1.0](https://github.com/devdoshi/stl-next-flow-2/compare/v6.0.0...v6.1.0) (2023-08-11)
 
 
