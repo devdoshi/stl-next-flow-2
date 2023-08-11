@@ -1,5 +1,12 @@
 # Changelog
 
+## [6.2.0](https://github.com/devdoshi/stl-next-flow-2/compare/v6.1.0...v6.2.0) (2023-08-11)
+
+
+### Features
+
+* change 2b ([b394ec1](https://github.com/devdoshi/stl-next-flow-2/commit/b394ec1f63b4321d4f00cd3bd20b3b23a66c20e8))
+
 ## [6.1.0](https://github.com/devdoshi/stl-next-flow-2/compare/v6.0.0...v6.1.0) (2023-08-11)
 
 
